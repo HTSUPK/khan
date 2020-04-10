@@ -90,7 +90,9 @@ print  """
 \033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/Man50or
 \033[1;91mWhatsapp\033[1;91m: \033[1;93m+923325439914
 \033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
-jalan("\033[1;97m;;;;;;;;;;;;;;;;;;;MK;TRICKER;;;;;;;;;;;;;;;;;;;
+jalan('              \033[1;91mREAD CAREFULLY:')
+jalan("\033[1;97m   It's not in Commands Control to get a   ")
+jalan('\033[1;97m   New or Old Account,  ')
 print "\033[1;91m«-------------\033[1;93mLogin With Tool\033[1;91m-------------»"
 
 CorrectUsername = "KHAN"
