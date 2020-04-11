@@ -118,10 +118,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCFs2F7Lrtrp6nxrzG5OikhA')
+            os.system('xdg-open https://https://www.Facebook.com/Man50or')
     else:
         print "\033[1;91mWrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCTnwI83k-i_HxFbYYe1mjbQ')
+        os.system('xdg-open https://www.Facebook.com/Man50or')
 
 def login():
 	os.system('clear')
