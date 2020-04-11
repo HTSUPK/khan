@@ -95,11 +95,13 @@ print  """
 \033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/Man50or
 \033[1;91mWhatsapp\033[1;91m: \033[1;93m+923325439914
 \033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
-jalan("\033[1;97m   It's not in Commands Control to get a   ")
-jalan('\033[1;97m   New or Old Account,  ')
-jalan('\033[1;97m    ok ')
-jalan("\033[1;97m    OK")
-jalan("\033[1;97m   OK .")
+jalan("\033[1;97m We Are Not Responsible To Wrong Use   ")
+jalan('\033[1;97m Username KHAN Password KHAN   ')
+jalan('\033[1;97m██ 39%  ')
+jalan("\033[1;97m ███ 49%  ")
+jalan("\033[1;97m  ████ 76%  ")
+jalan("\033[1;97m   █████ 89%  ")
+jalan("\033[1;97m    ██████ 100%  ")
 print "\033[1;91m«-------------\033[1;93mLogin With Tool\033[1;91m-------------»"
 
 CorrectUsername = "KHAN"
